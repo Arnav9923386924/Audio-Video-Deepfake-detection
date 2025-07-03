@@ -32,3 +32,5 @@ This project uses the [**LAV-DF (Large-Scale Audio-Visual DeepFake Detection)**]
 ```bash
 git clone https://github.com/Arnav9923386924/Audio-Video-Deepfake-detection.git
 cd Audio-Video-Deepfake-detection
+```
+### Contact Information: [arnav.gilankar@gmail.com]
