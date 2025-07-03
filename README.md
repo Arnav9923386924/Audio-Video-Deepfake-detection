@@ -6,10 +6,10 @@ This repository provides a **multi-modal deep learning system** to detect deepfa
 
 ## 📌 Dataset: LAV-DF
 
-This project uses the [**LAV-DF (Large-Scale Audio-Visual DeepFake Detection)**](https://www.kaggle.com/datasets/xhlulu/lavdf-large-scale-audiovisual-deepfake-dataset) dataset from Kaggle, which contains thousands of real and fake audio-video clips.
+This project uses the [**LAV-DF (Large-Scale Audio-Visual DeepFake Detection)**]([https://www.kaggle.com/datasets/xhlulu/lavdf-large-scale-audiovisual-deepfake-dataset](https://www.kaggle.com/datasets/elin75/localized-audio-visual-deepfake-dataset-lav-df)) dataset from Kaggle, which contains thousands of real and fake audio-video clips.
 
 🔗 **Kaggle Dataset**:  
-[https://www.kaggle.com/datasets/xhlulu/lavdf-large-scale-audiovisual-deepfake-dataset](https://www.kaggle.com/datasets/xhlulu/lavdf-large-scale-audiovisual-deepfake-dataset)
+[https://www.kaggle.com/datasets/xhlulu/lavdf-large-scale-audiovisual-deepfake-dataset]([https://www.kaggle.com/datasets/xhlulu/lavdf-large-scale-audiovisual-deepfake-dataset](https://www.kaggle.com/datasets/elin75/localized-audio-visual-deepfake-dataset-lav-df))
 
 ---
 
@@ -30,5 +30,5 @@ This project uses the [**LAV-DF (Large-Scale Audio-Visual DeepFake Detection)**]
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/your-username/deepfake-av-gnn.git
-cd deepfake-av-gnn
+git clone https://github.com/Arnav9923386924/Audio-Video-Deepfake-detection.git
+cd Audio-Video-Deepfake-detection
