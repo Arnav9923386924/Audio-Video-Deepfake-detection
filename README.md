@@ -9,7 +9,7 @@ This repository provides a **multi-modal deep learning system** to detect deepfa
 This project uses the [**LAV-DF (Large-Scale Audio-Visual DeepFake Detection)**]([https://www.kaggle.com/datasets/xhlulu/lavdf-large-scale-audiovisual-deepfake-dataset](https://www.kaggle.com/datasets/elin75/localized-audio-visual-deepfake-dataset-lav-df)) dataset from Kaggle, which contains thousands of real and fake audio-video clips.
 
 🔗 **Kaggle Dataset**:  
-([https://www.kaggle.com/datasets/xhlulu/lavdf-large-scale-audiovisual-deepfake-dataset])
+([https://www.kaggle.com/datasets/elin75/localized-audio-visual-deepfake-dataset-lav-df])
 
 ---
 
